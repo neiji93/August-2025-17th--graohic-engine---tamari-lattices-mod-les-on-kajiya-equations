@@ -5,3 +5,4 @@
 //then, the light propagation zlgorithm could not be clamped.
 //so the top left corner and the bottom right corner of zcenes are different.
 //to model that, lets add another rule. then clearcoat becomes pbr.
+//wr will use the slam algorithm muted.
