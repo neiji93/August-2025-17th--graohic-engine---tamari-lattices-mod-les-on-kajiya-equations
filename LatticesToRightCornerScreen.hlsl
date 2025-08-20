@@ -9,3 +9,15 @@
  so this for
 
 //we czn predict rays with clearcoat roughness.so thisnfornloop depends on timing.
+//according to recent stuffs on mean field gamed, the rendering loop is a tree based search.
+//then the clearcoat rougness must be propagated.
+void renderingllop_dfs_on_fog()
+{
+
+}
+
+//the density of incoming rafiance can have several concurrent rays on shadow maaps
+void renderingloip_dfs_simpleshzdowmzpwithdensity_estimation()
+{
+
+}
